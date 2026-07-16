@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pinkidagar18/pinkidagar18/main/assets/banner.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=220&section=header&text=Pinki%20Dagar&fontSize=46&fontColor=00D9FF&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=55&descSize=18&descColor=58A6FF" width="100%"/>
 
 <a href="https://github.com/pinkidagar18">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Building+LLM-Powered+Products;FastAPI+%E2%80%A2+React+%E2%80%A2+Local+LLMs;ClauseIQ+%E2%80%A2+Contract+Intelligence;Open+to+Opportunities" />
@@ -48,11 +48,11 @@
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark"/>
 
-![LangChain](https://img.shields.io/badge/-LangChain-00D9FF?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-00D9FF?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-00D9FF?style=for-the-badge&logo=googlegemini&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-00D9FF?style=for-the-badge&logo=huggingface&logoColor=white)
-![MLflow](https://img.shields.io/badge/-MLflow-00D9FF?style=for-the-badge&logo=mlflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-161B22?style=for-the-badge&logo=langchain&logoColor=00D9FF)
+![OpenAI](https://img.shields.io/badge/-OpenAI-161B22?style=for-the-badge&logo=openai&logoColor=00D9FF)
+![Gemini](https://img.shields.io/badge/-Gemini-161B22?style=for-the-badge&logo=googlegemini&logoColor=00D9FF)
+![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-161B22?style=for-the-badge&logo=huggingface&logoColor=00D9FF)
+![MLflow](https://img.shields.io/badge/-MLflow-161B22?style=for-the-badge&logo=mlflow&logoColor=00D9FF)
 
 *(LangChain, OpenAI, Gemini, Hugging Face & MLflow stay as badges — skillicons.dev doesn't have icons for these newer AI-specific tools yet)*
 
@@ -163,10 +163,10 @@ ML web app predicting the Fire Weather Index (FWI) from real-time meteorological
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pinkidagar18&show_icons=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=58A6FF&border_color=30363D&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pinkidagar18&show_icons=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&count_private=true" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=pinkidagar18&background=0D1117&stroke=30363D&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9&border=30363D" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkidagar18&layout=compact&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=30363D" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkidagar18&layout=compact&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=30363D" width="60%"/>
 
 </div>
 
@@ -188,29 +188,21 @@ ML web app predicting the Fire Weather Index (FWI) from real-time meteorological
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/pinkidagar18/pinkidagar18/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<br/>
-
 ## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/pinki-dagar-481752278">
-  <img src="https://img.shields.io/badge/-LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 <a href="mailto:pinkidagar18@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 <a href="https://github.com/pinkidagar18">
-  <img src="https://img.shields.io/badge/-GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 <a href="https://www.kaggle.com/pinkidagar">
-  <img src="https://img.shields.io/badge/-Kaggle-00D9FF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kaggle-161B22?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/>
 </a>
 
 </div>
