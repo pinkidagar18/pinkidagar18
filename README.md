@@ -34,47 +34,35 @@
 
 **Languages**
 
-![Python](https://img.shields.io/badge/-Python-3B82F6?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-3B82F6?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-3B82F6?style=for-the-badge&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-3B82F6?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark"/>
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/-HTML5-3B82F6?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-3B82F6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-3B82F6?style=for-the-badge&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-3B82F6?style=for-the-badge&logo=flutter&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,react,flutter&theme=dark"/>
 
 **Backend**
 
-![FastAPI](https://img.shields.io/badge/-FastAPI-3B82F6?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-3B82F6?style=for-the-badge&logo=flask&logoColor=white)
+<img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark"/>
 
 **AI & ML**
 
-![PyTorch](https://img.shields.io/badge/-PyTorch-3B82F6?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-3B82F6?style=for-the-badge&logo=tensorflow&logoColor=white)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark"/>
+
 ![LangChain](https://img.shields.io/badge/-LangChain-3B82F6?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-3B82F6?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-3B82F6?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-3B82F6?style=for-the-badge&logo=huggingface&logoColor=white)
 ![MLflow](https://img.shields.io/badge/-MLflow-3B82F6?style=for-the-badge&logo=mlflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-scikit--learn-3B82F6?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+*(LangChain, OpenAI, Gemini, Hugging Face & MLflow stay as badges — skillicons.dev doesn't have icons for these newer AI-specific tools yet)*
 
 **Database**
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-3B82F6?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-3B82F6?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-3B82F6?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark"/>
 
 **Tools**
 
-![Git](https://img.shields.io/badge/-Git-3B82F6?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-3B82F6?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-3B82F6?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-3B82F6?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-3B82F6?style=for-the-badge&logo=jupyter&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark"/>
 
 <br/>
 
@@ -188,6 +176,14 @@ ML web app predicting the Fire Weather Index (FWI) from real-time meteorological
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=pinkidagar18&theme=onedark&no-frame=true&margin-w=10&row=2&column=4"/>
+</div>
+
+<br/>
+
+## ⭐ Top Contributed Repo
+
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=pinkidagar18&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </div>
 
 <br/>
