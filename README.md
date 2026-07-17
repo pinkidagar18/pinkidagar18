@@ -1,216 +1,85 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=220&section=header&text=Pinki%20Dagar&fontSize=46&fontColor=00D9FF&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=55&descSize=18&descColor=58A6FF" width="100%"/>
-
-<a href="https://github.com/pinkidagar18">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Building+LLM-Powered+Products;FastAPI+%E2%80%A2+React+%E2%80%A2+Local+LLMs;ClauseIQ+%E2%80%A2+Contract+Intelligence;Open+to+Opportunities" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=pinkidagar18&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
-
-</div>
-
-<br/>
-
-## 👩‍💻 About Me
-
-- 🚀 AI Engineer & Full Stack Developer passionate about building production-ready AI products
-- 🧠 Focused on LLMs, intelligent automation, and scalable backend systems
-- ⚡ Comfortable across the full stack — FastAPI services, React frontends, and media pipelines with FFmpeg & Remotion
-- 🌱 Currently exploring: Agentic AI workflows & advanced video-AI pipelines *(edit if this isn't quite right)*
-
-<br/>
-
-## 🧭 Timeline
-
-| | |
-|---|---|
-| 💼 **Mar 2026 – Present** | **AI Intern, Prodigal AI** — LLM-powered features, AI Video Repurpose Platform, Viral Video Analysis Studio |
-| 🎓 **Oct 2022 – Present** | **B.Tech CSE (AI & ML), SVSU** — Palwal, Haryana · CGPA 8.69/10 |
-
-<br/>
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark"/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,flutter&theme=dark"/>
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark"/>
-
-**AI & ML**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark"/>
-
-![LangChain](https://img.shields.io/badge/-LangChain-161B22?style=for-the-badge&logo=langchain&logoColor=00D9FF)
-![OpenAI](https://img.shields.io/badge/-OpenAI-161B22?style=for-the-badge&logo=openai&logoColor=00D9FF)
-![Gemini](https://img.shields.io/badge/-Gemini-161B22?style=for-the-badge&logo=googlegemini&logoColor=00D9FF)
-![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-161B22?style=for-the-badge&logo=huggingface&logoColor=00D9FF)
-![MLflow](https://img.shields.io/badge/-MLflow-161B22?style=for-the-badge&logo=mlflow&logoColor=00D9FF)
-
-*(LangChain, OpenAI, Gemini, Hugging Face & MLflow stay as badges — skillicons.dev doesn't have icons for these newer AI-specific tools yet)*
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark"/>
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark"/>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<details>
-<summary><strong>📄 ClauseIQ — AI Contract Understanding</strong></summary>
-<br/>
-
-Legal contract analysis app — verbatim clause extraction, bounded AI summaries, and semantic search, running entirely on local open-source LLMs with zero API cost and zero data leaving the machine.
-
-**Stack:** `FastAPI` `React` `TypeScript` `Ollama` `Docker`
-
-**Highlights:**
-- Word-for-word clause extraction with real page/chunk citations
-- Guaranteed 100–150 word bounded summaries
-- Semantic search across contract chunks
-- Single Docker image, deployable to Hugging Face Spaces
-
-🔗 [View Repository](https://github.com/pinkidagar18/CUAD-LLM-PIPELINE)
-
-</details>
-
-<details>
-<summary><strong>🤖 Interview Copilot</strong></summary>
-<br/>
-
-AI-powered mock interview assistant — generates personalized interviews from a resume and job role, with STAR-based evaluation and a performance report.
-
-**Stack:** `Python` `LangGraph` `ChromaDB`
-
-**Highlights:**
-- Resume RAG for personalized question generation
-- Job description analyzer
-- Company intelligence lookup
-- STAR-method evaluation with adaptive follow-up questions
-
-🔗 [View Repository](https://github.com/pinkidagar18/Interview-Copilot)
-
-</details>
-
-<details>
-<summary><strong>🛡️ Network Security</strong></summary>
-<br/>
-
-Real-time phishing detection ML system with automated data validation and MLflow/DagsHub experiment tracking, served through a FastAPI pipeline.
-
-**Stack:** `Python` `FastAPI` `MongoDB` `Docker` `MLflow`
-
-**Highlights:**
-- Automated data validation pipeline
-- Real-time URL classification
-- Experiment tracking via MLflow + DagsHub
-- Fully containerized deployment
-
-🔗 [View Repository](https://github.com/pinkidagar18/networksecurity)
-
-</details>
-
-<details>
-<summary><strong>🎓 Saarthi AI</strong></summary>
-<br/>
-
-AI-powered education platform with face-recognition attendance, Gemini-based intelligent tutoring, and real-time analytics across admin, teacher, student and parent dashboards.
-
-**Stack:** `HTML` `Google Gemini`
-
-**Highlights:**
-- Face-recognition attendance system
-- Gemini-powered intelligent tutoring
-- Real-time analytics dashboards
-- Multi-role access (admin / teacher / student / parent)
-
-🔗 [View Repository](https://github.com/pinkidagar18/saarthi-ai)
-
-</details>
-
-<details>
-<summary><strong>🔥 Algerian Forest Fire Prediction</strong></summary>
-<br/>
-
-ML web app predicting the Fire Weather Index (FWI) from real-time meteorological data to assess wildfire risk, with an R² ≈ 0.98 model.
-
-**Stack:** `Python` `Flask` `scikit-learn`
-
-**Highlights:**
-- Fire Weather Index prediction, R² ≈ 0.98
-- Real-time meteorological data integration
-- Flask web interface for live risk assessment
-
-🔗 [View Repository](https://github.com/pinkidagar18/Algerian-Forest-Fire-Prediction-System)
-
-</details>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pinkidagar18&show_icons=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=pinkidagar18&background=0D1117&stroke=30363D&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9&border=30363D" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkidagar18&layout=compact&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=30363D" width="60%"/>
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pinkidagar18&theme=onedark&no-frame=true&margin-w=10&row=2&column=4"/>
-</div>
-
-<br/>
-
-## ⭐ Top Contributed Repo
-
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=pinkidagar18&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</div>
-
-<br/>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/pinki-dagar-481752278">
-  <img src="https://img.shields.io/badge/-LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a href="mailto:pinkidagar18@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-<a href="https://github.com/pinkidagar18">
-  <img src="https://img.shields.io/badge/-GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-<a href="https://www.kaggle.com/pinkidagar">
-  <img src="https://img.shields.io/badge/-Kaggle-161B22?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-*Thanks for visiting — feel free to explore my repositories and reach out!*
-
-</div>
+<h1 align="center">Hi 👋, I'm Pinki Dagar</h1>
+<h3 align="center">AI Intern @ Prodigal AI | Final-year B.Tech CSE (AI & ML)</h3>
+
+<p align="center">
+I'm passionate about building useful, practical products with modern AI — LLM apps, RAG systems, multi-agent workflows, and end-to-end ML pipelines. I enjoy taking an idea all the way from notebook to deployed product, and I'm working toward becoming an AI/ML Engineer who ships real-world solutions.
+</p>
+
+---
+
+## 🛠️ What I code with
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-DC143C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF4B4B?style=flat-square" />
+  <img src="https://img.shields.io/badge/ChromaDB-5A29E4?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Whisper-74AA9C?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tavily%20Search-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/DagsHub-FF9E1F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white" />
+</p>
+
+---
+
+## 🚀 My best work online
+
+- 🎤 **Interview Copilot** — Multi-agent GenAI interview coach (LangGraph + Groq) with Resume RAG, JD Analyzer & Company Intel agents; adaptive STAR-based interviews, deployed on Hugging Face Spaces
+- 🛡️ **Network Security — Phishing Detection** — Real-time end-to-end MLOps pipeline with FastAPI; Random Forest at 96.5% accuracy, MLflow + DagsHub tracking, MongoDB storage
+- 🔥 **Algerian Forest Fire Prediction** — Fire Weather Index risk estimation with Ridge Regression (R² ≈ 0.98) and an interactive Flask interface
+- 🎓 **Saarthi AI** — AI-powered education management: OpenCV face-recognition attendance, Gemini AI tutoring, multi-role dashboards
+
+---
+
+## 📊 My detailed GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pinkidagar18&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4b4b&icon_color=ff4b4b&text_color=c9d1d9&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pinkidagar18&hide_border=true&background=0d1117&ring=ff4b4b&fire=ff4b4b&currStreakLabel=ff4b4b&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkidagar18&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff4b4b&text_color=c9d1d9" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/pinki-dagar-481752278"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kaggle.com/pinkidagar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
+  <a href="mailto:pinkidagar18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
