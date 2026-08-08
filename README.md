@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Pinki%20Dagar&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Multi-Agent%20Systems&descAlignY=58&descSize=18&descColor=79C0FF" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+AI+Intern+%40+Prodigal+AI;%24+skills+%E2%86%92+LangGraph+%7C+RAG+%7C+FastAPI+%7C+Docker;%24+cat+current-focus.txt+%E2%86%92+Multi-Agent+AI+Systems;%24+cat+open-to.txt+%E2%86%92+AI%2FML+Engineer+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+AI+Intern+%40+Prodigal+AI;%24+skills+%E2%86%92+LangGraph+%7C+RAG+%7C+FastAPI+%7C+Docker;%24+skills+%E2%86%92+Prompt+Engineering+%7C+SEO%2FGEO+Audits;%24+cat+current-focus.txt+%E2%86%92+Multi-Agent+AI+Systems;%24+cat+open-to.txt+%E2%86%92+AI%2FML+Engineer+Roles" />
 
 <!-- Info badges -->
 [![Location](https://img.shields.io/badge/Palwal,_Haryana-0D1117?style=flat-square&logo=googlemaps&logoColor=58A6FF&color=161B22)](#)
@@ -12,10 +12,11 @@
 <br>
 
 <!-- CTA buttons -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://linkedin.com/in/pinki-dagar-481752278)
-[![GitHub](https://img.shields.io/badge/GitHub-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/pinkidagar18)
-[![Kaggle](https://img.shields.io/badge/Kaggle-79C0FF?style=for-the-badge&logo=kaggle&logoColor=0D1117)](https://kaggle.com/pinkidagar)
-[![Email](https://img.shields.io/badge/Email-A5D8FF?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:pinkidagar18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-38BDF8?style=flat-square&logo=linkedin&logoColor=0D1117)](https://linkedin.com/in/pinki-dagar-481752278)
+[![GitHub](https://img.shields.io/badge/GitHub-58A6FF?style=flat-square&logo=github&logoColor=0D1117)](https://github.com/pinkidagar18)
+[![Kaggle](https://img.shields.io/badge/Kaggle-79C0FF?style=flat-square&logo=kaggle&logoColor=0D1117)](https://kaggle.com/pinkidagar)
+[![Email](https://img.shields.io/badge/Email-A5D8FF?style=flat-square&logo=gmail&logoColor=0D1117)](mailto:pinkidagar18@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-1F6FEB?style=flat-square&logo=googledrive&logoColor=0D1117)](https://drive.google.com/file/d/17O2wh3zVhVKuAVAZ8NDJDbcGREJ1GrXG/view?usp=sharing)
 
 <br><br>
 
@@ -63,6 +64,8 @@ open_to:  AI/ML Engineer roles
 ![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-0D1117?style=for-the-badge&color=79C0FF)
 ![MLOps](https://img.shields.io/badge/MLOps-0D1117?style=for-the-badge&color=A5D8FF)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-0D1117?style=for-the-badge&color=1F6FEB)
+![SEO & GEO Audits](https://img.shields.io/badge/SEO_%26_GEO_Audits-0D1117?style=for-the-badge&color=58A6FF)
+![Multi--Model Evaluation](https://img.shields.io/badge/Multi--Model_Evaluation-0D1117?style=for-the-badge&color=79C0FF)
 
 </div>
 
@@ -70,13 +73,13 @@ open_to:  AI/ML Engineer roles
 
 ## `> cat expertise.md`
 
-| Domain | Proficiency | Details |
-| :-- | :-- | :-- |
-| Generative AI / RAG | ●●●●○ | LangGraph multi-agent systems, ChromaDB retrieval, prompt engineering |
-| Backend & APIs | ●●●●○ | FastAPI, Flask, REST APIs, Docker deployment |
-| MLOps | ●●●○○ | MLflow, DagsHub, model versioning & experiment tracking |
-| Machine Learning | ●●●●○ | Scikit-learn, PyTorch, TensorFlow, feature engineering |
-| Computer Vision | ●●●○○ | OpenCV, face recognition, video/audio content pipelines |
+| Domain | Shipped Proof |
+| :-- | :-- |
+| Generative AI / RAG | Built a multi-agent LangGraph interview coach with ChromaDB retrieval, deployed live on Hugging Face Spaces |
+| Prompt Engineering & Audits | Designed scoring-criteria audit prompts validated across ChatGPT, Gemini, Claude, and Grok in production at Prodigal AI |
+| Backend & APIs | FastAPI/Flask services powering 4 deployed projects, containerized with Docker |
+| MLOps | Benchmarked 4 models with MLflow + DagsHub, shipped a 96.5%-accuracy phishing detector |
+| Computer Vision | OpenCV face-recognition attendance system in a live multi-role education platform |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=header" />
 
@@ -92,7 +95,7 @@ Built a multi-agent Generative AI interview coach using LangGraph and Groq LLM, 
 | **Stack** | Python · FastAPI · LangGraph · ChromaDB · Docker |
 | **Scale** | 15-question adaptive interviews with STAR-based evaluation |
 | **Impact** | Difficulty adjusts to performance; deployed on Hugging Face Spaces with Tavily web search and PDF readiness reports |
-| **Repo** | [View](https://github.com/pinkidagar18) |
+| **Repo** | [GitHub](https://github.com/pinkidagar18/Interview-Copilot) · [Live Demo](https://pinkidagar-interviewcopilot.hf.space/) |
 
 </details>
 
@@ -106,7 +109,7 @@ Built a real-time end-to-end MLOps pipeline for phishing detection with FastAPI,
 | **Stack** | Python · FastAPI · MLOps · MongoDB |
 | **Scale** | Benchmarked Random Forest, XGBoost, Logistic Regression, Neural Networks |
 | **Impact** | Random Forest selected at 96.5% accuracy; MLflow + DagsHub for experiment tracking |
-| **Repo** | [View](https://github.com/pinkidagar18) |
+| **Repo** | [GitHub](https://github.com/pinkidagar18/networksecurity) · [Live Demo](https://pinkidagar-network-security.hf.space/) |
 
 </details>
 
@@ -120,7 +123,7 @@ Designed an ML-driven system to analyze environmental conditions and estimate Fi
 | **Stack** | Python · Ridge Regression · Flask |
 | **Scale** | Regularized regression with standardized feature engineering |
 | **Impact** | R² score of ~0.98; interactive Flask interface for live weather ingestion |
-| **Repo** | [View](https://github.com/pinkidagar18) |
+| **Repo** | [GitHub](https://github.com/pinkidagar18/Algerian-Forest-Fire-Prediction-System) · [Live Demo](https://pinkidagar-algerian-forest-fire-prediction-system.hf.space/) |
 
 </details>
 
@@ -134,7 +137,7 @@ Developed an education management platform with face-recognition attendance, AI 
 | **Stack** | Python · Flask · SQLite · Google Gemini API |
 | **Scale** | Multi-role dashboards for Admin, Teacher, Student, and Parent users |
 | **Impact** | OpenCV face-recognition attendance + Gemini AI tutoring + performance analytics |
-| **Repo** | [View](https://github.com/pinkidagar18) |
+| **Repo** | [GitHub](https://github.com/pinkidagar18/saarthi-ai) |
 
 </details>
 
@@ -143,12 +146,13 @@ Developed an education management platform with face-recognition attendance, AI 
 ## `$ cat experience.log`
 
 **AI Intern — Prodigal AI** `March 2026 – Present`
-- Built Generative AI features for Video Repurpose Studio, converting long-form videos into short-form content using LLM-driven highlight detection and automation.
-- Integrated AI models for video transcription, summarization, and metadata extraction to power content automation workflows.
-- Engineered video processing pipelines with FFmpeg for clipping, trimming, and media optimization.
-- Developed Analysis Studio features generating AI-based insights and analytics from video and audio content.
+- Developed Generative AI features for Video Repurpose & Analysis Studio, including AI-driven highlight detection, transcription, summarization, metadata extraction, and content analytics.
+- Designed and refined AI-powered SEO & GEO audit workflows, developing structured prompts, evaluation parameters, scoring criteria, and evidence-backed recommendations.
+- Conducted single and comparative audits and validated consistency by comparing repeated outputs across AI models including ChatGPT, Gemini, Claude, and Grok.
+- Built client-friendly PDF audit reports with visual comparisons, citations, website evidence, and actionable optimization recommendations for non-technical users.
+- Developed Profile/Bio audit frameworks focused on measuring impact and credibility through structured scoring, evidence-based observations, and improvement recommendations.
 
-`LangGraph` `FastAPI` `FFmpeg` `LLMs` `Docker`
+`LangGraph` `FastAPI` `FFmpeg` `LLMs` `Prompt Engineering` `Multi-Model Evaluation` `Docker`
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=header" />
 
@@ -158,7 +162,7 @@ Developed an education management platform with face-recognition attendance, AI 
 | :-- | :-- |
 | 🏆 Code Slayer 2K25 | Participant — organised by NIT Delhi |
 | 🏆 Smart India Hackathon 2024 | Cleared the internal round |
-| 📜 Certification | Complete Data Science, ML, DL, NLP Bootcamp — Udemy |
+| 📜 Certification | [Complete Data Science, ML, DL, NLP Bootcamp — Udemy](https://drive.google.com/file/d/1GASs7tD7X_ZDiNjoH5dgwa426kQXR3We/view?usp=drivesdk) |
 
 <div align="center">
 
@@ -220,8 +224,9 @@ learning:
   - Advanced multi-agent AI systems
 
 building:
-  - Video Repurpose Studio  # Generative AI features for long-form → short-form content
-  - Analysis Studio         # AI-based insights and analytics from video/audio
+  - Video Repurpose & Analysis Studio   # highlight detection, transcription, summarization, content analytics
+  - SEO & GEO audit workflows           # structured prompts, scoring criteria, multi-model evaluation
+  - Profile/Bio audit frameworks        # impact & credibility scoring for client PDF reports
 
 open_to:
   - AI/ML Engineer roles
@@ -238,6 +243,7 @@ open_to:
 [![GitHub](https://img.shields.io/badge/GitHub-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/pinkidagar18)
 [![Kaggle](https://img.shields.io/badge/Kaggle-79C0FF?style=for-the-badge&logo=kaggle&logoColor=0D1117)](https://kaggle.com/pinkidagar)
 [![Email](https://img.shields.io/badge/Email-A5D8FF?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:pinkidagar18@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-1F6FEB?style=for-the-badge&logo=googledrive&logoColor=0D1117)](https://drive.google.com/file/d/17O2wh3zVhVKuAVAZ8NDJDbcGREJ1GrXG/view?usp=sharing)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=footer" />
 
