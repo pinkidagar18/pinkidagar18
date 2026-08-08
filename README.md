@@ -1,44 +1,46 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=1E1E2E&height=200&section=header&text=Pinki%20Dagar&fontSize=48&fontColor=CBA6F7&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Multi-Agent%20Systems&descAlignY=58&descSize=18&descColor=A6E3A1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=220&section=header&text=Pinki%20Dagar&fontSize=50&fontColor=48CAE4&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Multi-Agent%20Systems&descAlignY=58&descSize=18&descColor=90E0EF" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=CBA6F7&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+AI+Intern+%40+Prodigal+AI;%24+skills+%E2%86%92+LangGraph+%7C+RAG+%7C+FastAPI+%7C+Docker;%24+cat+current-focus.txt+%E2%86%92+Multi-Agent+AI+Systems;%24+cat+open-to.txt+%E2%86%92+AI%2FML+Engineer+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=48CAE4&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+AI+Intern+%40+Prodigal+AI;%24+skills+%E2%86%92+LangGraph+%7C+RAG+%7C+FastAPI+%7C+Docker;%24+cat+current-focus.txt+%E2%86%92+Multi-Agent+AI+Systems;%24+cat+open-to.txt+%E2%86%92+AI%2FML+Engineer+Roles" />
 
 <!-- Info badges -->
-[![Location](https://img.shields.io/badge/Palwal,_Haryana-1E1E2E?style=flat-square&logo=googlemaps&logoColor=CBA6F7&color=313244)](#)
-[![University](https://img.shields.io/badge/Shri_Vishwakarma_Skill_University-1E1E2E?style=flat-square&logo=googlescholar&logoColor=A6E3A1&color=313244)](#)
-[![CGPA](https://img.shields.io/badge/CGPA-8.69-1E1E2E?style=flat-square&color=313244&logoColor=89B4FA)](#)
-
-<!-- CTA buttons -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CBA6F7?style=for-the-badge&logo=linkedin&logoColor=1E1E2E)](https://linkedin.com/in/pinki-dagar-481752278)
-[![GitHub](https://img.shields.io/badge/GitHub-A6E3A1?style=for-the-badge&logo=github&logoColor=1E1E2E)](https://github.com/pinkidagar18)
-[![Kaggle](https://img.shields.io/badge/Kaggle-89B4FA?style=for-the-badge&logo=kaggle&logoColor=1E1E2E)](https://kaggle.com/pinkidagar)
-[![Email](https://img.shields.io/badge/Email-F38BA8?style=for-the-badge&logo=gmail&logoColor=1E1E2E)](mailto:pinkidagar18@gmail.com)
-
-<!-- Profile stats -->
-<img src="https://komarev.com/ghpvc/?username=pinkidagar18&label=Profile%20Views&color=CBA6F7&style=flat-square" />
-<img src="https://img.shields.io/github/followers/pinkidagar18?label=Followers&style=flat-square&color=A6E3A1&labelColor=1E1E2E" />
-<img src="https://img.shields.io/github/stars/pinkidagar18?label=Stars&style=flat-square&color=89B4FA&labelColor=1E1E2E" />
-
-</div>
+[![Location](https://img.shields.io/badge/Palwal,_Haryana-0A192F?style=flat-square&logo=googlemaps&logoColor=48CAE4&color=112240)](#)
+[![University](https://img.shields.io/badge/Shri_Vishwakarma_Skill_University-0A192F?style=flat-square&logo=googlescholar&logoColor=90E0EF&color=112240)](#)
+[![CGPA](https://img.shields.io/badge/CGPA-8.69-0A192F?style=flat-square&color=112240&logoColor=00B4D8)](#)
 
 <br>
+
+<!-- CTA buttons -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=0A192F)](https://linkedin.com/in/pinki-dagar-481752278)
+[![GitHub](https://img.shields.io/badge/GitHub-48CAE4?style=for-the-badge&logo=github&logoColor=0A192F)](https://github.com/pinkidagar18)
+[![Kaggle](https://img.shields.io/badge/Kaggle-90E0EF?style=for-the-badge&logo=kaggle&logoColor=0A192F)](https://kaggle.com/pinkidagar)
+[![Email](https://img.shields.io/badge/Email-ADE8F4?style=for-the-badge&logo=gmail&logoColor=0A192F)](mailto:pinkidagar18@gmail.com)
+
+<br><br>
+
+<!-- Profile stats -->
+<img src="https://komarev.com/ghpvc/?username=pinkidagar18&label=Profile%20Views&color=00B4D8&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/pinkidagar18?label=Followers&style=for-the-badge&color=48CAE4&labelColor=0A192F" />
+<img src="https://img.shields.io/github/stars/pinkidagar18?label=Stars&style=for-the-badge&color=90E0EF&labelColor=0A192F" />
+
+<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=3&section=header" />
+</div>
 
 ## `> whoami`
 
 AI Intern at Prodigal AI and final-year B.Tech CSE (AI & ML) student. I build LLM apps, RAG systems, and ML pipelines with Python, FastAPI, LangGraph, and Docker — turning ideas into complete, usable products on the way to becoming an AI/ML Engineer.
 
-```bash
-$ cat .profile
-
-ROLE     =  AI Intern @ Prodigal AI
-EXP      =  Final-year B.Tech CSE (AI & ML)
-DOMAIN   =  Generative AI  |  RAG Systems  |  MLOps  |  Computer Vision
-STACK    =  Python  |  FastAPI  |  LangGraph  |  Docker
-OPEN_TO  =  AI/ML Engineer roles
+```yaml
+role:     AI Intern @ Prodigal AI
+status:   Final-year B.Tech CSE (AI & ML)
+domain:   Generative AI · RAG Systems · MLOps · Computer Vision
+stack:    Python · FastAPI · LangGraph · Docker
+open_to:  AI/ML Engineer roles
 ```
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=3&section=header" />
 
 ## `$ ls /tech-stack`
 
@@ -54,21 +56,17 @@ OPEN_TO  =  AI/ML Engineer roles
 
 **Also working with:** LLMs · RAG · Prompt Engineering · LangChain · Multi-Agent Systems · ChromaDB · OpenAI API · Google Gemini API · Groq · Hugging Face · Ollama · Whisper · Tavily Search · FFmpeg · Scikit-learn · MLflow · DagsHub
 
-<br>
-
-## `$ cat specialties.txt`
-
 <div align="center">
 
-![Generative AI](https://img.shields.io/badge/Generative_AI-1E1E2E?style=flat-square&color=CBA6F7)
-![RAG Systems](https://img.shields.io/badge/RAG_Systems-1E1E2E?style=flat-square&color=A6E3A1)
-![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-1E1E2E?style=flat-square&color=89B4FA)
-![MLOps](https://img.shields.io/badge/MLOps-1E1E2E?style=flat-square&color=F38BA8)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-1E1E2E?style=flat-square&color=FAB387)
+![Generative AI](https://img.shields.io/badge/Generative_AI-0A192F?style=for-the-badge&color=00B4D8)
+![RAG Systems](https://img.shields.io/badge/RAG_Systems-0A192F?style=for-the-badge&color=48CAE4)
+![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-0A192F?style=for-the-badge&color=90E0EF)
+![MLOps](https://img.shields.io/badge/MLOps-0A192F?style=for-the-badge&color=ADE8F4)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-0A192F?style=for-the-badge&color=0096C7)
 
 </div>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=3&section=header" />
 
 ## `> cat expertise.md`
 
@@ -80,12 +78,12 @@ OPEN_TO  =  AI/ML Engineer roles
 | Machine Learning | ●●●●○ | Scikit-learn, PyTorch, TensorFlow, feature engineering |
 | Computer Vision | ●●●○○ | OpenCV, face recognition, video/audio content pipelines |
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=3&section=header" />
 
 ## `$ ls /projects --featured`
 
 <details open>
-<summary><b>&#9654; Interview Copilot &mdash; Multi-agent AI interview coach</b></summary>
+<summary><b>&#9654; Interview Copilot &mdash; Multi-agent AI interview coach</b></summary><br>
 
 Built a multi-agent Generative AI interview coach using LangGraph and Groq LLM, with Resume RAG (ChromaDB + sentence-transformers), a JD Analyzer agent, and a Company Intel agent.
 
@@ -99,7 +97,7 @@ Built a multi-agent Generative AI interview coach using LangGraph and Groq LLM, 
 </details>
 
 <details>
-<summary><b>&#9654; Network Security &mdash; Real-time phishing detection MLOps pipeline</b></summary>
+<summary><b>&#9654; Network Security &mdash; Real-time phishing detection MLOps pipeline</b></summary><br>
 
 Built a real-time end-to-end MLOps pipeline for phishing detection with FastAPI, benchmarking multiple models before selecting the best performer.
 
@@ -113,7 +111,7 @@ Built a real-time end-to-end MLOps pipeline for phishing detection with FastAPI,
 </details>
 
 <details>
-<summary><b>&#9654; Algerian Forest Fire Prediction &mdash; Fire Weather Index estimator</b></summary>
+<summary><b>&#9654; Algerian Forest Fire Prediction &mdash; Fire Weather Index estimator</b></summary><br>
 
 Designed an ML-driven system to analyze environmental conditions and estimate Fire Weather Index (FWI) risk in real time.
 
@@ -127,7 +125,7 @@ Designed an ML-driven system to analyze environmental conditions and estimate Fi
 </details>
 
 <details>
-<summary><b>&#9654; Saarthi AI &mdash; AI-powered education management system</b></summary>
+<summary><b>&#9654; Saarthi AI &mdash; AI-powered education management system</b></summary><br>
 
 Developed an education management platform with face-recognition attendance, AI tutoring, and automated alerts.
 
@@ -140,7 +138,7 @@ Developed an education management platform with face-recognition attendance, AI 
 
 </details>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=3&section=header" />
 
 ## `$ cat experience.log`
 
@@ -152,7 +150,7 @@ Developed an education management platform with face-recognition attendance, AI 
 
 `LangGraph` `FastAPI` `FFmpeg` `LLMs` `Docker`
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=3&section=header" />
 
 ## `> cat achievements.md`
 
@@ -162,60 +160,46 @@ Developed an education management platform with face-recognition attendance, AI 
 | 🏆 Smart India Hackathon 2024 | Cleared the internal round |
 | 📜 Certification | Complete Data Science, ML, DL, NLP Bootcamp — Udemy |
 
-<br>
-
-## `$ cat education.badge`
-
 <div align="center">
 
-[![Education](https://img.shields.io/badge/B.Tech_CSE_(AI_%26_ML)_%E2%80%94_CGPA_8.69-CBA6F7?style=for-the-badge&logo=graduation-cap&logoColor=1E1E2E)](#)
+[![Education](https://img.shields.io/badge/B.Tech_CSE_(AI_%26_ML)_%E2%80%94_CGPA_8.69-00B4D8?style=for-the-badge&logo=graduation-cap&logoColor=0A192F)](#)
 
 </div>
 
-Shri Vishwakarma Skill University, Palwal, Haryana — *Oct 2022 – July 2026*
+<p align="center"><sub>Shri Vishwakarma Skill University, Palwal, Haryana — Oct 2022 – July 2026</sub></p>
 
-<br>
-
-## `$ cat coding-profiles.txt`
-
-<div align="center">
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-pinkidagar-89B4FA?style=for-the-badge&logo=kaggle&logoColor=1E1E2E)](https://kaggle.com/pinkidagar)
-
-</div>
-
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=3&section=header" />
 
 ## `$ ./github-analytics.sh`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pinkidagar18&show_icons=true&hide_border=true&title_color=CBA6F7&icon_color=A6E3A1&text_color=CDD6F4&bg_color=1E1E2E" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pinkidagar18&hide_border=true&background=1E1E2E&stroke=CBA6F7&ring=A6E3A1&fire=CBA6F7&currStreakLabel=CBA6F7&sideLabels=CDD6F4&dates=6C7086" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pinkidagar18&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0A192F&title_color=48CAE4&icon_color=00B4D8&text_color=CCD6F6" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pinkidagar18&hide_border=true&theme=tokyonight&background=0A192F&stroke=48CAE4&ring=00B4D8&fire=48CAE4&currStreakLabel=48CAE4" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkidagar18&layout=compact&hide_border=true&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkidagar18&layout=compact&hide_border=true&theme=tokyonight&bg_color=0A192F&title_color=48CAE4&text_color=CCD6F6" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=pinkidagar18&theme=dracula&no-frame=true&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=pinkidagar18&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pinkidagar18&bg_color=1E1E2E&color=CBA6F7&line=CBA6F7&point=A6E3A1&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pinkidagar18&theme=tokyo-night&bg_color=0A192F&color=48CAE4&line=48CAE4&point=90E0EF&area=true&hide_border=true" />
 
 </div>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=3&section=header" />
 
 ## `$ ./contribution-summary.sh`
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pinkidagar18&theme=dracula" width="100%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pinkidagar18&theme=dracula" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pinkidagar18&theme=dracula" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pinkidagar18&theme=dracula" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pinkidagar18&theme=dracula&utcOffset=5.5" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pinkidagar18&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pinkidagar18&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pinkidagar18&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pinkidagar18&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pinkidagar18&theme=tokyonight&utcOffset=5.5" width="48%" />
 
 </div>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=3&section=header" />
 
 ## `$ ./contribution-snake.sh`
 
@@ -225,9 +209,9 @@ Shri Vishwakarma Skill University, Palwal, Haryana — *Oct 2022 – July 2026*
 
 </div>
 
-> Auto-generated daily by a GitHub Action — see `snake.yml` below for the one-time setup.
+<p align="center"><sub>Auto-generated daily by a GitHub Action — see <code>snake.yml</code> for the one-time setup.</sub></p>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=3&section=header" />
 
 ## `> cat current-focus.yaml`
 
@@ -244,17 +228,17 @@ open_to:
   - LLM / RAG / Agentic systems projects
 ```
 
-<br>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=3&section=header" />
 
 ## `$ ./connect.sh`
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=0A192F)](https://linkedin.com/in/pinki-dagar-481752278)
+[![GitHub](https://img.shields.io/badge/GitHub-48CAE4?style=for-the-badge&logo=github&logoColor=0A192F)](https://github.com/pinkidagar18)
+[![Kaggle](https://img.shields.io/badge/Kaggle-90E0EF?style=for-the-badge&logo=kaggle&logoColor=0A192F)](https://kaggle.com/pinkidagar)
+[![Email](https://img.shields.io/badge/Email-ADE8F4?style=for-the-badge&logo=gmail&logoColor=0A192F)](mailto:pinkidagar18@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CBA6F7?style=for-the-badge&logo=linkedin&logoColor=1E1E2E)](https://linkedin.com/in/pinki-dagar-481752278)
-[![GitHub](https://img.shields.io/badge/GitHub-A6E3A1?style=for-the-badge&logo=github&logoColor=1E1E2E)](https://github.com/pinkidagar18)
-[![Kaggle](https://img.shields.io/badge/Kaggle-89B4FA?style=for-the-badge&logo=kaggle&logoColor=1E1E2E)](https://kaggle.com/pinkidagar)
-[![Email](https://img.shields.io/badge/Email-F38BA8?style=for-the-badge&logo=gmail&logoColor=1E1E2E)](mailto:pinkidagar18@gmail.com)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=1E1E2E&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=150&section=footer" />
 
 </div>
