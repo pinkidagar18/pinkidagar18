@@ -31,12 +31,12 @@
 
 ## `> whoami`
 
-AI Intern at Prodigal AI and final-year B.Tech CSE (AI & ML) student. I build LLM apps, RAG systems, and ML pipelines with Python, FastAPI, LangGraph, and Docker — turning ideas into complete, usable products on the way to becoming an AI/ML Engineer.
+AI Intern at Prodigal AI and B.Tech CSE (AI & ML) graduate (CGPA 8.69). I build LLM apps, RAG systems, and ML pipelines with Python, FastAPI, LangGraph, and Docker — turning ideas into complete, usable products on the way to becoming an AI/ML Engineer.
 
 ```yaml
 role:     AI Intern @ Prodigal AI
-status:   Final-year B.Tech CSE (AI & ML)
-domain:   Generative AI · RAG Systems · MLOps · Computer Vision
+status:   B.Tech CSE (AI & ML) Graduate — CGPA 8.69
+domain:   Generative AI · RAG Systems · MLOps · SEO/GEO Audits · Computer Vision
 stack:    Python · FastAPI · LangGraph · Docker
 open_to:  AI/ML Engineer roles
 ```
@@ -51,7 +51,10 @@ open_to:  AI/ML Engineer roles
 
 </div>
 
-**Also working with:** LLMs · RAG · Prompt Engineering · LangChain · Multi-Agent Systems · ChromaDB · OpenAI API · Google Gemini API · Groq · Hugging Face · Ollama · Whisper · Tavily Search · FFmpeg · Scikit-learn · MLflow · DagsHub
+**Also working with**
+- **GenAI:** LLMs · RAG · Prompt Engineering · LangChain · Multi-Agent Systems · ChromaDB
+- **AI APIs:** OpenAI · Google Gemini · Groq · Hugging Face · Ollama · Whisper · Tavily Search
+- **ML/Media:** Scikit-learn · MLflow · DagsHub · FFmpeg
 
 <div align="center">
 
@@ -72,7 +75,7 @@ open_to:  AI/ML Engineer roles
 | Domain | Shipped Proof |
 | :-- | :-- |
 | Generative AI / RAG | Built a multi-agent LangGraph interview coach with ChromaDB retrieval, deployed live on Hugging Face Spaces |
-| Prompt Engineering & Audits | Designed scoring-criteria audit prompts validated across ChatGPT, Gemini, Claude, and Grok in production at Prodigal AI |
+| Prompt Engineering & Audits | Designed scoring-criteria audit prompts, actively used for client SEO/GEO audits at Prodigal AI, validated across ChatGPT, Gemini, Claude, and Grok |
 | Backend & APIs | FastAPI/Flask services powering 4 deployed projects, containerized with Docker |
 | MLOps | Benchmarked 4 models with MLflow + DagsHub, shipped a 96.5%-accuracy phishing detector |
 | Computer Vision | OpenCV face-recognition attendance system in a live multi-role education platform |
@@ -162,11 +165,11 @@ Developed an education management platform with face-recognition attendance, AI 
 
 <div align="center">
 
-[![Education](https://img.shields.io/badge/B.Tech_CSE_(AI_%26_ML)_%E2%80%94_CGPA_8.69-38BDF8?style=for-the-badge&logo=graduation-cap&logoColor=0D1117)](#)
+[![Education](https://img.shields.io/badge/B.Tech_CSE_(AI_%26_ML)_%E2%80%94_CGPA_8.69-161B22?style=for-the-badge&logo=graduation-cap&logoColor=58A6FF)](#)
 
 </div>
 
-<p align="center"><sub>Shri Vishwakarma Skill University, Palwal, Haryana — Oct 2022 – July 2026</sub></p>
+<p align="center"><sub>Shri Vishwakarma Skill University, Palwal, Haryana — Oct 2022 – July 2026 (Graduated)</sub></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=header" />
 
@@ -178,24 +181,6 @@ Developed an education management platform with face-recognition attendance, AI 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pinkidagar18&hide_border=true&theme=github-dark-blue" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkidagar18&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=pinkidagar18&theme=darkhub&no-frame=true&column=7&margin-w=8" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pinkidagar18&bg_color=0D1117&color=58A6FF&line=58A6FF&point=79C0FF&area=true&hide_border=true" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=header" />
-
-## `$ ./contribution-summary.sh`
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pinkidagar18&theme=github_dark" width="100%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pinkidagar18&theme=github_dark" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pinkidagar18&theme=github_dark" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pinkidagar18&theme=github_dark" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pinkidagar18&theme=github_dark&utcOffset=5.5" width="48%" />
 
 </div>
 
