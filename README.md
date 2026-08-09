@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Pinki%20Dagar&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Multi-Agent%20Systems&descAlignY=58&descSize=18&descColor=79C0FF" />
+<img width="100%" src="banner.svg" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+AI+Intern+%40+Prodigal+AI;%24+skills+%E2%86%92+LangGraph+%7C+RAG+%7C+FastAPI+%7C+Docker;%24+skills+%E2%86%92+Prompt+Engineering+%7C+SEO%2FGEO+Audits;%24+cat+current-focus.txt+%E2%86%92+Multi-Agent+AI+Systems;%24+cat+open-to.txt+%E2%86%92+AI%2FML+Engineer+Roles" />
 
