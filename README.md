@@ -178,7 +178,7 @@ Developed an education management platform with face-recognition attendance, AI 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=pinkidagar18&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=38BDF8&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pinkidagar18&hide_border=true&theme=github-dark-blue" />
+<img height="165" src="https://streak-stats.demolab.com/?user=pinkidagar18&hide_border=true&theme=github-dark-blue" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkidagar18&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
