@@ -29,7 +29,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=header" />
 </div>
 
-## `> whoami`
+## About Me
 
 AI Intern at Prodigal AI and B.Tech CSE (AI & ML) graduate (CGPA 8.69). I build LLM apps, RAG systems, and ML pipelines with Python, FastAPI, LangGraph, and Docker — turning ideas into complete, usable products on the way to becoming an AI/ML Engineer.
 
@@ -43,7 +43,7 @@ open_to:  AI/ML Engineer roles
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=header" />
 
-## `$ ls /tech-stack`
+## Tech Stack
 
 <div align="center">
 
@@ -70,7 +70,7 @@ open_to:  AI/ML Engineer roles
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=header" />
 
-## `> cat expertise.md`
+## Expertise
 
 | Domain | Shipped Proof |
 | :-- | :-- |
@@ -82,7 +82,7 @@ open_to:  AI/ML Engineer roles
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=header" />
 
-## `$ ls /projects --featured`
+## Featured Projects
 
 <details open>
 <summary><b>&#9654; Interview Copilot &mdash; Multi-agent AI interview coach</b></summary><br>
@@ -142,7 +142,7 @@ Developed an education management platform with face-recognition attendance, AI 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=header" />
 
-## `$ cat experience.log`
+## Experience
 
 **AI Intern — Prodigal AI** `March 2026 – Present`
 - Developed Generative AI features for Video Repurpose & Analysis Studio, including AI-driven highlight detection, transcription, summarization, metadata extraction, and content analytics.
@@ -155,7 +155,7 @@ Developed an education management platform with face-recognition attendance, AI 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=header" />
 
-## `> cat achievements.md`
+## Achievements
 
 | Achievement | Detail |
 | :-- | :-- |
@@ -173,7 +173,7 @@ Developed an education management platform with face-recognition attendance, AI 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=header" />
 
-## `$ ./github-analytics.sh`
+## GitHub Analytics
 
 <div align="center">
 
@@ -186,7 +186,7 @@ Developed an education management platform with face-recognition attendance, AI 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=header" />
 
-## `$ ./contribution-snake.sh`
+## Contribution Snake
 
 <div align="center">
 
@@ -198,7 +198,7 @@ Developed an education management platform with face-recognition attendance, AI 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=header" />
 
-## `> cat current-focus.yaml`
+## Current Focus
 
 ```yaml
 learning:
@@ -218,7 +218,7 @@ open_to:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=header" />
 
-## `$ ./connect.sh`
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/pinki-dagar-481752278)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/pinkidagar18)
