@@ -5,25 +5,25 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+AI+Intern+%40+Prodigal+AI;%24+skills+%E2%86%92+LangGraph+%7C+RAG+%7C+FastAPI+%7C+Docker;%24+skills+%E2%86%92+Prompt+Engineering+%7C+SEO%2FGEO+Audits;%24+cat+current-focus.txt+%E2%86%92+Multi-Agent+AI+Systems;%24+cat+open-to.txt+%E2%86%92+AI%2FML+Engineer+Roles" />
 
 <!-- Info badges -->
-[![Location](https://img.shields.io/badge/Palwal,_Haryana-0D1117?style=flat-square&logo=googlemaps&logoColor=58A6FF&color=161B22)](#)
-[![University](https://img.shields.io/badge/Shri_Vishwakarma_Skill_University-0D1117?style=flat-square&logo=googlescholar&logoColor=79C0FF&color=161B22)](#)
-[![CGPA](https://img.shields.io/badge/CGPA-8.69-0D1117?style=flat-square&color=161B22&logoColor=38BDF8)](#)
+[![Location](https://img.shields.io/badge/Palwal,_Haryana-161B22?style=for-the-badge&logo=googlemaps&logoColor=58A6FF)](#)
+[![University](https://img.shields.io/badge/SVSU_Palwal-161B22?style=for-the-badge&logo=googlescholar&logoColor=58A6FF)](#)
+[![CGPA](https://img.shields.io/badge/CGPA_8.69-161B22?style=for-the-badge&logo=googlescholar&logoColor=58A6FF)](#)
 
 <br>
 
 <!-- CTA buttons -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-38BDF8?style=flat-square&logo=linkedin&logoColor=0D1117)](https://linkedin.com/in/pinki-dagar-481752278)
-[![GitHub](https://img.shields.io/badge/GitHub-58A6FF?style=flat-square&logo=github&logoColor=0D1117)](https://github.com/pinkidagar18)
-[![Kaggle](https://img.shields.io/badge/Kaggle-79C0FF?style=flat-square&logo=kaggle&logoColor=0D1117)](https://kaggle.com/pinkidagar)
-[![Email](https://img.shields.io/badge/Email-A5D8FF?style=flat-square&logo=gmail&logoColor=0D1117)](mailto:pinkidagar18@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-1F6FEB?style=flat-square&logo=googledrive&logoColor=0D1117)](https://drive.google.com/file/d/17O2wh3zVhVKuAVAZ8NDJDbcGREJ1GrXG/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/pinki-dagar-481752278)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/pinkidagar18)
+[![Kaggle](https://img.shields.io/badge/Kaggle-161B22?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://kaggle.com/pinkidagar)
+[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:pinkidagar18@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-161B22?style=for-the-badge&logo=googledrive&logoColor=4285F4)](https://drive.google.com/file/d/17O2wh3zVhVKuAVAZ8NDJDbcGREJ1GrXG/view?usp=sharing)
 
-<br><br>
+<br>
 
 <!-- Profile stats -->
-<img src="https://komarev.com/ghpvc/?username=pinkidagar18&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/pinkidagar18?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0D1117" />
-<img src="https://img.shields.io/github/stars/pinkidagar18?label=Stars&style=for-the-badge&color=79C0FF&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=pinkidagar18&label=Profile+Views&color=161B22&style=for-the-badge&labelColor=161B22" />
+<img src="https://img.shields.io/github/followers/pinkidagar18?label=Followers&style=for-the-badge&color=161B22&labelColor=161B22&logo=github&logoColor=58A6FF" />
+<img src="https://img.shields.io/github/stars/pinkidagar18?label=Stars&style=for-the-badge&color=161B22&labelColor=161B22&logo=github&logoColor=58A6FF" />
 
 <br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=header" />
@@ -59,13 +59,13 @@ open_to:  AI/ML Engineer roles
 
 <div align="center">
 
-![Generative AI](https://img.shields.io/badge/Generative_AI-0D1117?style=for-the-badge&color=38BDF8)
-![RAG Systems](https://img.shields.io/badge/RAG_Systems-0D1117?style=for-the-badge&color=58A6FF)
-![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-0D1117?style=for-the-badge&color=79C0FF)
-![MLOps](https://img.shields.io/badge/MLOps-0D1117?style=for-the-badge&color=A5D8FF)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-0D1117?style=for-the-badge&color=1F6FEB)
-![SEO & GEO Audits](https://img.shields.io/badge/SEO_%26_GEO_Audits-0D1117?style=for-the-badge&color=58A6FF)
-![Multi--Model Evaluation](https://img.shields.io/badge/Multi--Model_Evaluation-0D1117?style=for-the-badge&color=79C0FF)
+![Generative AI](https://img.shields.io/badge/Generative_AI-161B22?style=for-the-badge&labelColor=161B22&color=161B22)
+![RAG Systems](https://img.shields.io/badge/RAG_Systems-161B22?style=for-the-badge&labelColor=161B22&color=161B22)
+![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-161B22?style=for-the-badge&labelColor=161B22&color=161B22)
+![MLOps](https://img.shields.io/badge/MLOps-161B22?style=for-the-badge&labelColor=161B22&color=161B22)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-161B22?style=for-the-badge&labelColor=161B22&color=161B22)
+![SEO & GEO Audits](https://img.shields.io/badge/SEO_%26_GEO_Audits-161B22?style=for-the-badge&labelColor=161B22&color=161B22)
+![Multi--Model Evaluation](https://img.shields.io/badge/Multi--Model_Evaluation-161B22?style=for-the-badge&labelColor=161B22&color=161B22)
 
 </div>
 
@@ -239,11 +239,11 @@ open_to:
 
 ## `$ ./connect.sh`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://linkedin.com/in/pinki-dagar-481752278)
-[![GitHub](https://img.shields.io/badge/GitHub-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/pinkidagar18)
-[![Kaggle](https://img.shields.io/badge/Kaggle-79C0FF?style=for-the-badge&logo=kaggle&logoColor=0D1117)](https://kaggle.com/pinkidagar)
-[![Email](https://img.shields.io/badge/Email-A5D8FF?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:pinkidagar18@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-1F6FEB?style=for-the-badge&logo=googledrive&logoColor=0D1117)](https://drive.google.com/file/d/17O2wh3zVhVKuAVAZ8NDJDbcGREJ1GrXG/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/pinki-dagar-481752278)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/pinkidagar18)
+[![Kaggle](https://img.shields.io/badge/Kaggle-161B22?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://kaggle.com/pinkidagar)
+[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:pinkidagar18@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-161B22?style=for-the-badge&logo=googledrive&logoColor=4285F4)](https://drive.google.com/file/d/17O2wh3zVhVKuAVAZ8NDJDbcGREJ1GrXG/view?usp=sharing)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=150&section=footer" />
 
