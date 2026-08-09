@@ -47,7 +47,7 @@ open_to:  AI/ML Engineer roles
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,fastapi,flask,nodejs,react,pytorch,tensorflow,opencv,mongodb,mysql,sqlite,docker,git,github,vercel,render,vscode&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,fastapi,flask,nodejs,react,pytorch,tensorflow,opencv,mongodb,mysql,sqlite,docker,git,github,vercel,vscode&theme=dark&perline=5" />
 
 </div>
 
