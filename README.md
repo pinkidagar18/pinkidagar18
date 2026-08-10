@@ -31,13 +31,18 @@
 
 ## About Me
 
+**Building AI that's evidence-backed, not just confident.**
+
 AI Intern at Prodigal AI and B.Tech CSE (AI & ML) graduate (CGPA 8.69). I build LLM apps, RAG systems, and ML pipelines with Python, FastAPI, LangGraph, and Docker — turning ideas into complete, usable products on the way to becoming an AI/ML Engineer.
+
+I don't take a single model's output at face value — I validate outputs across ChatGPT, Gemini, Claude, and Grok before calling something reliable. That discipline shapes how I build, not just how I audit.
 
 ```yaml
 role:     AI Intern @ Prodigal AI
 status:   B.Tech CSE (AI & ML) Graduate — CGPA 8.69
 domain:   Generative AI · RAG Systems · MLOps · SEO/GEO Audits · Computer Vision
 stack:    Python · FastAPI · LangGraph · Docker
+priority: Evidence over assumptions
 open_to:  AI/ML Engineer roles
 ```
 
@@ -109,6 +114,11 @@ Built a real-time end-to-end MLOps pipeline for phishing detection with FastAPI,
 | **Scale** | Benchmarked Random Forest, XGBoost, Logistic Regression, Neural Networks |
 | **Impact** | Random Forest selected at 96.5% accuracy; MLflow + DagsHub for experiment tracking |
 | **Repo** | [GitHub](https://github.com/pinkidagar18/networksecurity) · [Live Demo](https://pinkidagar-network-security.hf.space/) |
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/pinkidagar18/networksecurity/main/images/home_page.png" width="49%" />
+<img src="https://raw.githubusercontent.com/pinkidagar18/networksecurity/main/images/prediction_page.png" width="49%" />
+</p>
 
 </details>
 
@@ -212,6 +222,14 @@ building:
 open_to:
   - AI/ML Engineer roles
   - LLM / RAG / Agentic systems projects
+```
+
+## Final Note
+
+```
+I'm not trying to ship the flashiest AI demo.
+I'm trying to build systems whose outputs I can actually defend —
+validated across models, backed by evidence, useful outside a slide deck.
 ```
 
 <div align="center">
