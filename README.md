@@ -1,27 +1,54 @@
 <div align="center">
-  <img src="./banner.png" alt="Pinki Dagar — AI/ML Engineer" width="100%" />
+
+<h1>Hi, I'm Pinki Dagar 👋</h1>
+
+<p>
+  <a href="https://linkedin.com/in/pinki-dagar-481752278"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://github.com/pinkidagar18"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://huggingface.co/pinkidagar"><img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square" /></a>
+  &nbsp;
+  <a href="mailto:pinkidagar18@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=pinkidagar18&label=Profile+Views&color=A855F7&style=flat-square" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/🤖_AI%2FML_Engineer-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠_GenAI_%26_RAG-EC4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🕸️_Multi--Agent_Systems-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚙️_MLOps-58A6FF?style=for-the-badge" />
+</p>
+
 </div>
 
-# `PINKI-DAGAR`
+---
 
-```text
-STATUS       : ONLINE
-ROLE         : AI Intern @ Prodigal AI
-LOCATION     : Palwal, Haryana, India
-EDUCATION    : B.Tech CSE (AI & ML) — CGPA 8.69
-OPERATING    : GenAI + RAG + Multi-Agent Systems + MLOps
-PRIORITY     : Evidence-backed systems over confident demos
+```python
+class PinkiDagar:
+    role       = "AI Intern @ Prodigal AI"
+    location   = "Palwal, Haryana, India"
+    education  = "B.Tech CSE (AI & ML) — CGPA 8.69 — SVSU"
+    operating  = ["GenAI", "RAG Pipelines", "Multi-Agent Systems", "MLOps"]
+    validates  = ["ChatGPT", "Gemini", "Claude", "Grok"]   # cross-model before trusting
+    priority   = "Evidence-backed systems over confident demos"
+    status     = "🟢 ONLINE — building & shipping"
 ```
 
-Building AI that's evidence-backed, not just confident.
+---
 
-I work on the layer where LLM behavior, retrieval systems, backend engineering, and evaluation discipline all collide. I don't take a single model's output at face value — I validate outputs across **ChatGPT, Gemini, Claude, and Grok** before calling something reliable. That discipline shapes how I build, not just how I audit.
+### `ABOUT_ME`
 
-## `SYSTEM_PROFILE`
+I work at the intersection of **LLM behaviour**, **retrieval systems**, **backend engineering**, and **evaluation discipline**.
 
-- I build `LLM apps`, `RAG pipelines`, `multi-agent systems`, and `production-style AI backends`.
-- I care about `evidence`, `multi-model validation`, `evaluation`, and whether a system holds up outside a notebook.
-- I like turning messy requirements into clean workflows, deployed APIs, and client-ready PDF reports.
+I don't take a single model's output at face value — I cross-validate across **ChatGPT, Gemini, Claude, and Grok** before trusting anything as reliable. That discipline isn't just how I audit — it's how I **build**.
+
+| What I build | How I think |
+| :-- | :-- |
+| `LLM apps` · `RAG pipelines` · `Multi-agent systems` | Evidence first — no confident guessing |
+| `Production-style AI backends` · `FastAPI services` | Systems that hold up outside a notebook |
+| `SEO/GEO audit workflows` · `PDF reports` | Clean output that a client can actually use |
 
 ## `DEPLOYED_SYSTEMS`
 
@@ -267,10 +294,10 @@ useful outside a slide deck.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=pinkidagar18&label=Profile+Views&color=A855F7&style=flat-square" />
-&nbsp;
 <img src="https://img.shields.io/github/followers/pinkidagar18?label=Followers&style=flat-square&color=58A6FF&logo=github&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/github/stars/pinkidagar18?label=Stars&style=flat-square&color=EC4899&logo=github&logoColor=white" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=pinkidagar18&label=Profile+Views&color=A855F7&style=flat-square" />
 
 </div>
