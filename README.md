@@ -225,26 +225,25 @@ I don't take a single model's output at face value — I cross-validate across *
 <div align="center">
 
 <!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=pinkidagar18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=C0C0C0&rank_icon=github&card_width=400" height="180" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=pinkidagar18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=C0C0C0&rank_icon=github" height="180" />
 &nbsp;&nbsp;
 <!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkidagar18&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C0C0C0&langs_count=8&card_width=300" height="180" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pinkidagar18&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C0C0C0&langs_count=8" height="180" />
 
 <br/><br/>
 
 <!-- GitHub Streak Stats -->
-<!-- GitHub Streak Stats — using demolab.com (new home after heroku shutdown) -->
-<img src="https://streak-stats.demolab.com?user=pinkidagar18&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=C0C0C0&dates=C0C0C0&stroke=A855F7" width="60%" />
+<img src="https://streak-stats.vercel.app/?user=pinkidagar18&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=C0C0C0&dates=C0C0C0&stroke=A855F7" width="65%" />
 
 <br/><br/>
 
 <!-- Contribution Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pinkidagar18&bg_color=0D1117&color=A855F7&line=EC4899&point=58A6FF&area_color=A855F7&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=8" width="100%" />
 
-<br/>
+<br/><br/>
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=pinkidagar18&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+<!-- Profile Summary Details -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pinkidagar18&theme=tokyonight" width="100%" />
 
 </div>
 
