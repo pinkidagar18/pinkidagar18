@@ -25,9 +25,13 @@ I work on the layer where LLM behavior, retrieval systems, backend engineering, 
 
 ## `DEPLOYED_SYSTEMS`
 
+<details>
+<summary><b>📊 View Systems Overview Infographic</b></summary>
+<br>
 <div align="center">
   <img src="./deployed_systems.jpeg" alt="Deployed systems overview" width="100%" />
 </div>
+</details>
 
 <details open>
 <summary><b>&#9654; Interview Copilot — Multi-agent AI interview coach</b></summary><br>
@@ -139,61 +143,7 @@ I work on the layer where LLM behavior, retrieval systems, backend engineering, 
 
 </div>
 
-## `EXPERTISE_MAP`
 
-<div align="center">
-  <img src="./expertise_map.jpeg" alt="Expertise map overview" width="100%" />
-</div>
-
-<details>
-<summary><b>🧠 Generative AI / RAG</b></summary>
-<br>
-
-> Built a **multi-agent LangGraph interview coach** with ChromaDB retrieval, deployed live on Hugging Face Spaces.
-
-![LangGraph](https://img.shields.io/badge/LangGraph-3B1F8E?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-4C1D95?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-8B5CF6?style=flat-square) ![Tavily](https://img.shields.io/badge/Tavily-7E22CE?style=flat-square)
-
-</details>
-
-<details>
-<summary><b>📝 Prompt Engineering & Audits</b></summary>
-<br>
-
-> Designed **scoring-criteria audit prompts**, actively used for client SEO/GEO audits at Prodigal AI, validated across **ChatGPT, Gemini, Claude, and Grok**.
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-5B21B6?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-7C3AED?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-9333EA?style=flat-square) ![Grok](https://img.shields.io/badge/Grok-A855F7?style=flat-square)
-
-</details>
-
-<details>
-<summary><b>⚡ Backend & APIs</b></summary>
-<br>
-
-> **FastAPI/Flask services** powering 4 deployed projects, containerized with Docker.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-1E40AF?style=flat-square) ![Flask](https://img.shields.io/badge/Flask-2563EB?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-3B82F6?style=flat-square)
-
-</details>
-
-<details>
-<summary><b>📊 MLOps</b></summary>
-<br>
-
-> Benchmarked **4 models** with MLflow + DagsHub, shipped a **96.5%-accuracy** phishing detector.
-
-![MLflow](https://img.shields.io/badge/MLflow-DB2777?style=flat-square) ![DagsHub](https://img.shields.io/badge/DagsHub-EC4899?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-BE185D?style=flat-square)
-
-</details>
-
-<details>
-<summary><b>👁️ Computer Vision</b></summary>
-<br>
-
-> **OpenCV face-recognition** attendance system in a live multi-role education platform.
-
-![OpenCV](https://img.shields.io/badge/OpenCV-0EA5E9?style=flat-square) ![Gemini API](https://img.shields.io/badge/Gemini_API-38BDF8?style=flat-square)
-
-</details>
 
 ## `WORK_EXPERIENCE`
 
@@ -248,18 +198,24 @@ I work on the layer where LLM behavior, retrieval systems, backend engineering, 
 <div align="center">
 
 <a href="https://github.com/pinkidagar18">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pinkidagar18&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=38BDF8&text_color=C9D1D9&ring_color=EC4899&cache_seconds=86400" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=pinkidagar18&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 </a>
-&nbsp;
-<a href="https://github.com/pinkidagar18">
-  <img height="180" src="https://streak-stats.demolab.com/?user=pinkidagar18&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
-</a>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pinkidagar18&theme=tokyonight" />
 
 <br>
 
-<a href="https://github.com/pinkidagar18">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pinkidagar18&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8&cache_seconds=86400" />
-</a>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pinkidagar18&theme=tokyonight" />
+&nbsp;
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pinkidagar18&theme=tokyonight&utcOffset=5.5" />
+
+<br>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pinkidagar18&theme=tokyonight" />
+&nbsp;
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pinkidagar18&theme=tokyonight" />
 
 <br><br>
 
