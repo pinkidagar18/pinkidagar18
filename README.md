@@ -198,15 +198,16 @@ I work on the layer where LLM behavior, retrieval systems, backend engineering, 
 <div align="center">
 
 <!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=pinkidagar18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=C0C0C0&cache_seconds=1800&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=pinkidagar18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=C0C0C0&rank_icon=github&card_width=400" height="180" />
 &nbsp;&nbsp;
 <!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkidagar18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C0C0C0&cache_seconds=1800&langs_count=8" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkidagar18&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C0C0C0&langs_count=8&card_width=300" height="180" />
 
 <br/><br/>
 
 <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pinkidagar18&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=C0C0C0&dates=C0C0C0&stroke=A855F7" width="60%" />
+<!-- GitHub Streak Stats — using demolab.com (new home after heroku shutdown) -->
+<img src="https://streak-stats.demolab.com?user=pinkidagar18&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=C0C0C0&dates=C0C0C0&stroke=A855F7" width="60%" />
 
 <br/><br/>
 
