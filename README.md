@@ -90,68 +90,52 @@ I work on the layer where LLM behavior, retrieval systems, backend engineering, 
 
 </details>
 
-## `STACK_ARCH`
-
-<div align="center">
-  <img src="./stack.jpeg" alt="Stack architecture overview" width="100%" />
-</div>
-
-```text
-Languages        : Python, C++, JavaScript
-AI / LLMs        : LangChain, LangGraph, ChromaDB, OpenAI, Gemini, Groq, Ollama, Whisper, PyTorch, TensorFlow
-MLOps            : MLflow, DagsHub, Scikit-learn, Jupyter
-Backend          : FastAPI, Flask, Node.js, React
-Cloud / DevOps   : Docker, Git, GitHub Actions, Vercel, Linux
-Data / Media     : MongoDB, MySQL, SQLite, FFmpeg, Streamlit, Gradio
-```
+## `TECH_STACK`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,vscode&theme=dark" />
-
-<br><br>
-
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-1C3C3C?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![Whisper](https://img.shields.io/badge/Whisper-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Tavily](https://img.shields.io/badge/Tavily_Search-0052CC?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![DagsHub](https://img.shields.io/badge/DagsHub-6236FF?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,fastapi,flask,nodejs,react,pytorch,tensorflow,opencv,mongodb,mysql,sqlite,docker,git,github,vercel,vscode&theme=dark&perline=10" />
 
 </div>
 
 <div align="center">
 
-![Generative AI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge)
-![RAG Systems](https://img.shields.io/badge/RAG_Systems-06B6D4?style=for-the-badge)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-EC4899?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10B981?style=for-the-badge)
+#### `GenAI & LLM Ecosystem`
+
+![LangChain](https://img.shields.io/badge/🦜_LangChain-2D1B69?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-3B1F8E?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-4C1D95?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-5B21B6?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-7C3AED?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-8B5CF6?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-A855F7?style=for-the-badge&logo=huggingface&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-6D28D9?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/Whisper-9333EA?style=for-the-badge&logo=openai&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily_Search-7E22CE?style=for-the-badge)
+
+#### `ML & Data Tools`
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-BE185D?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-DB2777?style=for-the-badge&logo=mlflow&logoColor=white)
+![DagsHub](https://img.shields.io/badge/DagsHub-EC4899?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-9D174D?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-831843?style=for-the-badge&logo=pandas&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-F472B6?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-D946EF?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-C026D3?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-A21CAF?style=for-the-badge)
+
+#### `Domain Expertise`
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-1E3A5F?style=for-the-badge)
+![RAG Systems](https://img.shields.io/badge/RAG_Systems-1E40AF?style=for-the-badge)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-1D4ED8?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-2563EB?style=for-the-badge)
 ![MLOps](https://img.shields.io/badge/MLOps-3B82F6?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-F59E0B?style=for-the-badge)
-![SEO & GEO Audits](https://img.shields.io/badge/SEO_%26_GEO_Audits-EF4444?style=for-the-badge)
-![Multi-Model Evaluation](https://img.shields.io/badge/Multi--Model_Evaluation-8B5CF6?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-14B8A6?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-60A5FA?style=for-the-badge)
+![SEO & GEO Audits](https://img.shields.io/badge/SEO_%26_GEO_Audits-38BDF8?style=for-the-badge)
+![Multi-Model Eval](https://img.shields.io/badge/Multi--Model_Eval-0EA5E9?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-0284C7?style=for-the-badge)
 
 </div>
 
@@ -222,13 +206,7 @@ building     : Video Repurpose & Analysis Studio · SEO/GEO audit workflows · P
 open_to      : AI/ML Engineer roles · LLM/RAG/Agentic systems projects · GenAI research collaborations
 ```
 
-## `LINK_STREAMS`
-
-- GitHub: [@pinkidagar18](https://github.com/pinkidagar18)
-- LinkedIn: [pinki-dagar](https://linkedin.com/in/pinki-dagar-481752278)
-- Kaggle: [pinkidagar](https://kaggle.com/pinkidagar)
-- Email: `pinkidagar18@gmail.com`
-- Resume: [View Resume](https://drive.google.com/file/d/17O2wh3zVhVKuAVAZ8NDJDbcGREJ1GrXG/view?usp=sharing)
+## `CONNECT`
 
 <div align="center">
 
@@ -259,3 +237,4 @@ useful outside a slide deck.
 <img src="https://img.shields.io/github/stars/pinkidagar18?label=Stars&style=flat-square&color=EC4899&logo=github&logoColor=white" />
 
 </div>
+
