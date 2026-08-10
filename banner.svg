@@ -1,57 +1,159 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img">
 <title>Pinki Dagar — AI/ML Engineer</title>
 <defs>
-<linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" stop-color="#58A6FF"/>
-<stop offset="100%" stop-color="#A5D8FF"/>
-</linearGradient>
-<radialGradient id="glow" cx="50%" cy="50%" r="50%">
-<stop offset="0%" stop-color="#1F6FEB" stop-opacity="0.25"/>
-<stop offset="100%" stop-color="#1F6FEB" stop-opacity="0"/>
-</radialGradient>
+  <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#58A6FF">
+      <animate attributeName="stop-color" values="#58A6FF;#A855F7;#EC4899;#58A6FF" dur="6s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="50%" stop-color="#A855F7">
+      <animate attributeName="stop-color" values="#A855F7;#EC4899;#58A6FF;#A855F7" dur="6s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="100%" stop-color="#EC4899">
+      <animate attributeName="stop-color" values="#EC4899;#58A6FF;#A855F7;#EC4899" dur="6s" repeatCount="indefinite"/>
+    </stop>
+  </linearGradient>
+  <linearGradient id="subtitleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#38BDF8"/>
+    <stop offset="100%" stop-color="#818CF8"/>
+  </linearGradient>
+  <linearGradient id="accentGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#58A6FF"/>
+    <stop offset="50%" stop-color="#A855F7"/>
+    <stop offset="100%" stop-color="#EC4899"/>
+  </linearGradient>
+  <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#A855F7" stop-opacity="0.20"/>
+    <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#1F6FEB" stop-opacity="0.18"/>
+    <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glow3" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#EC4899" stop-opacity="0.15"/>
+    <stop offset="100%" stop-color="#EC4899" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="scanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
+    <stop offset="45%" stop-color="#58A6FF" stop-opacity="0.08"/>
+    <stop offset="50%" stop-color="#A855F7" stop-opacity="0.25"/>
+    <stop offset="55%" stop-color="#58A6FF" stop-opacity="0.08"/>
+    <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="textGlow">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
 </defs>
 
+<!-- Background -->
 <rect width="1200" height="300" fill="#0D1117"/>
-<circle cx="980" cy="90" r="220" fill="url(#glow)"/>
-<circle cx="180" cy="240" r="180" fill="url(#glow)"/>
 
-<g stroke="#21262D" stroke-width="1" opacity="0.6">
-<line x1="0" y1="60" x2="1200" y2="60"/>
-<line x1="0" y1="240" x2="1200" y2="240"/>
+<!-- Animated glow orbs -->
+<circle cx="1000" cy="80" r="240" fill="url(#glow1)">
+  <animate attributeName="r" values="240;260;240" dur="4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="150" cy="250" r="200" fill="url(#glow2)">
+  <animate attributeName="r" values="200;220;200" dur="5s" repeatCount="indefinite"/>
+</circle>
+<circle cx="600" cy="50" r="160" fill="url(#glow3)">
+  <animate attributeName="r" values="160;180;160" dur="6s" repeatCount="indefinite"/>
+</circle>
+
+<!-- Grid lines -->
+<g stroke="#21262D" stroke-width="0.5" opacity="0.4">
+  <line x1="0" y1="60" x2="1200" y2="60"/>
+  <line x1="0" y1="120" x2="1200" y2="120"/>
+  <line x1="0" y1="180" x2="1200" y2="180"/>
+  <line x1="0" y1="240" x2="1200" y2="240"/>
+  <line x1="200" y1="0" x2="200" y2="300"/>
+  <line x1="400" y1="0" x2="400" y2="300"/>
+  <line x1="600" y1="0" x2="600" y2="300"/>
+  <line x1="800" y1="0" x2="800" y2="300"/>
+  <line x1="1000" y1="0" x2="1000" y2="300"/>
 </g>
 
-<g stroke="#1F6FEB" stroke-width="0.6" opacity="0.45" fill="none">
-<path d="M 850 40 L 920 90 L 1000 70 L 1060 130"/>
-<path d="M 920 90 L 950 160"/>
-<path d="M 1000 70 L 1080 40"/>
-<path d="M 1060 130 L 1140 100"/>
-<path d="M 950 160 L 1020 210"/>
-<path d="M 60 250 L 130 200 L 100 130 L 170 90"/>
-<path d="M 130 200 L 210 230"/>
-<path d="M 100 130 L 40 90"/>
+<!-- Scanning line animation -->
+<rect x="-200" y="0" width="200" height="300" fill="url(#scanGrad)">
+  <animate attributeName="x" from="-200" to="1400" dur="4s" repeatCount="indefinite"/>
+</rect>
+
+<!-- Neural network — right cluster -->
+<g stroke="#A855F7" stroke-width="0.7" opacity="0.5" fill="none">
+  <path d="M 830 35 L 910 85 L 990 65 L 1060 125"/>
+  <path d="M 910 85 L 940 155"/>
+  <path d="M 990 65 L 1080 35"/>
+  <path d="M 1060 125 L 1140 95"/>
+  <path d="M 940 155 L 1020 205"/>
+  <path d="M 830 35 L 780 80"/>
+  <path d="M 1020 205 L 1100 180"/>
+  <path d="M 1140 95 L 1160 150"/>
 </g>
 
+<!-- Neural network — left cluster -->
+<g stroke="#58A6FF" stroke-width="0.7" opacity="0.5" fill="none">
+  <path d="M 50 245 L 120 195 L 90 125 L 160 85"/>
+  <path d="M 120 195 L 200 225"/>
+  <path d="M 90 125 L 30 85"/>
+  <path d="M 200 225 L 270 190"/>
+  <path d="M 160 85 L 230 50"/>
+  <path d="M 270 190 L 320 240"/>
+</g>
+
+<!-- Pulsing nodes — right -->
+<g fill="#A855F7">
+  <circle cx="830" cy="35" r="3.5"><animate attributeName="r" values="3.5;5;3.5" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="910" cy="85" r="4.5"><animate attributeName="r" values="4.5;6;4.5" dur="2.5s" repeatCount="indefinite"/></circle>
+  <circle cx="990" cy="65" r="3.5"><animate attributeName="r" values="3.5;5;3.5" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="1060" cy="125" r="4.5"><animate attributeName="r" values="4.5;6;4.5" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="1080" cy="35" r="3"><animate attributeName="r" values="3;4.5;3" dur="2.8s" repeatCount="indefinite"/></circle>
+  <circle cx="1140" cy="95" r="3"><animate attributeName="r" values="3;4.5;3" dur="3.2s" repeatCount="indefinite"/></circle>
+  <circle cx="940" cy="155" r="4"><animate attributeName="r" values="4;5.5;4" dur="2.3s" repeatCount="indefinite"/></circle>
+  <circle cx="1020" cy="205" r="3.5"><animate attributeName="r" values="3.5;5;3.5" dur="2.6s" repeatCount="indefinite"/></circle>
+  <circle cx="780" cy="80" r="3"><animate attributeName="r" values="3;4.5;3" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="1100" cy="180" r="3.5"><animate attributeName="r" values="3.5;5;3.5" dur="2.5s" repeatCount="indefinite"/></circle>
+  <circle cx="1160" cy="150" r="3"><animate attributeName="r" values="3;4;3" dur="2.7s" repeatCount="indefinite"/></circle>
+</g>
+
+<!-- Pulsing nodes — left -->
 <g fill="#58A6FF">
-<circle cx="850" cy="40" r="3.5"/>
-<circle cx="920" cy="90" r="4.5"/>
-<circle cx="1000" cy="70" r="3.5"/>
-<circle cx="1060" cy="130" r="4.5"/>
-<circle cx="1080" cy="40" r="3"/>
-<circle cx="1140" cy="100" r="3"/>
-<circle cx="950" cy="160" r="4"/>
-<circle cx="1020" cy="210" r="3.5"/>
-<circle cx="60" cy="250" r="4"/>
-<circle cx="130" cy="200" r="4.5"/>
-<circle cx="100" cy="130" r="3.5"/>
-<circle cx="170" cy="90" r="3"/>
-<circle cx="40" cy="90" r="3"/>
-<circle cx="210" cy="230" r="3.5"/>
+  <circle cx="50" cy="245" r="4"><animate attributeName="r" values="4;5.5;4" dur="2.5s" repeatCount="indefinite"/></circle>
+  <circle cx="120" cy="195" r="4.5"><animate attributeName="r" values="4.5;6;4.5" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="90" cy="125" r="3.5"><animate attributeName="r" values="3.5;5;3.5" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="160" cy="85" r="3"><animate attributeName="r" values="3;4.5;3" dur="2.8s" repeatCount="indefinite"/></circle>
+  <circle cx="30" cy="85" r="3"><animate attributeName="r" values="3;4.5;3" dur="2.3s" repeatCount="indefinite"/></circle>
+  <circle cx="200" cy="225" r="3.5"><animate attributeName="r" values="3.5;5;3.5" dur="2.6s" repeatCount="indefinite"/></circle>
+  <circle cx="270" cy="190" r="3"><animate attributeName="r" values="3;4.5;3" dur="3.2s" repeatCount="indefinite"/></circle>
+  <circle cx="230" cy="50" r="3.5"><animate attributeName="r" values="3.5;5;3.5" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="320" cy="240" r="3"><animate attributeName="r" values="3;4;3" dur="2.7s" repeatCount="indefinite"/></circle>
 </g>
 
-<rect x="80" y="118" width="4" height="64" fill="url(#nameGrad)"/>
+<!-- Floating particles -->
+<g fill="#58A6FF" opacity="0.3">
+  <circle cx="500" cy="30" r="1.5"><animate attributeName="cy" values="30;20;30" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="650" cy="270" r="1.5"><animate attributeName="cy" values="270;260;270" dur="5s" repeatCount="indefinite"/></circle>
+  <circle cx="750" cy="150" r="1"><animate attributeName="cy" values="150;140;150" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="450" cy="200" r="1.5"><animate attributeName="cy" values="200;190;200" dur="4.5s" repeatCount="indefinite"/></circle>
+  <circle cx="550" cy="100" r="1"><animate attributeName="cy" values="100;90;100" dur="3.5s" repeatCount="indefinite"/></circle>
+</g>
 
-<text x="110" y="150" font-family="Consolas, 'Fira Code', monospace" font-size="52" font-weight="700" fill="url(#nameGrad)">Pinki Dagar</text>
-<text x="110" y="182" font-family="Consolas, 'Fira Code', monospace" font-size="18" fill="#8B949E">AI/ML Engineer · LLMs · RAG · Multi-Agent Systems</text>
+<!-- Accent bar -->
+<rect x="80" y="112" width="5" height="76" rx="2.5" fill="url(#accentGrad)"/>
 
-<text x="110" y="215" font-family="Consolas, 'Fira Code', monospace" font-size="14" fill="#79C0FF">$ currently building: SEO/GEO AI audit workflows @ Prodigal AI</text>
+<!-- Name text with glow -->
+<text x="110" y="152" font-family="'Segoe UI', Consolas, 'Fira Code', monospace" font-size="54" font-weight="800" fill="url(#nameGrad)" filter="url(#textGlow)">Pinki Dagar</text>
+
+<!-- Subtitle -->
+<text x="110" y="182" font-family="'Segoe UI', Consolas, 'Fira Code', monospace" font-size="17" fill="url(#subtitleGrad)" letter-spacing="1">AI/ML Engineer · LLMs · RAG · Multi-Agent Systems · MLOps</text>
+
+<!-- Terminal line -->
+<text x="110" y="215" font-family="Consolas, 'Fira Code', monospace" font-size="14" fill="#79C0FF" opacity="0.9">
+  <tspan fill="#6E7681">❯ </tspan>currently building<tspan fill="#6E7681"> → </tspan>SEO/GEO AI audit workflows @ Prodigal AI
+</text>
+
+<!-- Bottom gradient line -->
+<rect x="0" y="296" width="1200" height="4" fill="url(#nameGrad)" opacity="0.6"/>
 </svg>
